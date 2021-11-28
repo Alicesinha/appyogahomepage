@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #e5e5e5;
+  font-family: "Roboto", sans-serif;
+}
+#yogaimage {
+  display: block;
+  margin: 195px auto 122.65px auto;
+}
+.input {
+  display: block;
+  color: #f7f7f7;
+  margin: 0 auto;
+  width: 321px;
+  height: 46px;
+  border-radius: 10px;
+
+  font-size: 17px;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border: none;
+}
+input::placeholder {
+  padding-left: 19px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  color: #969696;
+}
+#password {
+  margin-top: 21px;
+}
+#forgotpassword {
+  display: inline-block;
+  margin: 35px 3px auto 230px;
+  color: #000000;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+}
+.button {
+  display: block;
+  margin: 38px auto auto auto;
+  width: 133px;
+  height: 46px;
+  background-color: #323232;
+  color: white;
+  border-radius: 10px;
+}
+#register {
+  display: inline-block;
+  font-size: 15px;
+  margin: 21px 7px 62px 25px;
+}
+a {
+  text-decoration: none;
+}
+strong {
+  color: #323232;
+}
+p {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+}
+
+#container {
+  margin: 18px auto 80px auto;
+  text-align: center;
+}
+.img-link {
+  margin: 5px 18px;
+}
